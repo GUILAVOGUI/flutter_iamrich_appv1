@@ -6,7 +6,7 @@ void main() {
     backgroundColor: Colors.blueGrey,
     appBar: AppBar(
       title: Text('I am Rich'),
-      backgroundColor: Colors.blueGrey[900],
+      backgroundColor: Colors.blueGrey[700],
     ),
     body: Image(
       image: AssetImage('images/diamond.png'),
